@@ -1,0 +1,8 @@
+# requirements.txt
+
+aiodatabase==1.0.0
+pyinstaller==6.9.0
+pyinstaller-hooks-contrib==2024.7
+PyYAML==6.0.1
+tk==0.1.0
+typing_extensions==4.12.2
